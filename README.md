@@ -9,7 +9,7 @@ This project showcases my participation in the “Can you predict which water pu
 A predictive model can help prioritize maintenance and ensure communities have access to clean water.
 
 ## Project Structure
-.
+
 ├── Machine_Learning_Competition.py  # Main Python script
 
 ├── Notebook.ipynb                  # Jupyter Notebook for analysis
