@@ -2,6 +2,7 @@
 
 ## Overview
 This project showcases my participation in the “Can you predict which water pumps are faulty?” machine learning competition. The goal of the competition was to predict the status of water pumps in Tanzania using data provided by Taarifa and the Tanzanian Ministry of Water. The target variable consists of three categories:
+
 	1.	Functional
 	2.	Needs Repair
 	3.	Non-functional
