@@ -33,18 +33,21 @@ A predictive model can help prioritize maintenance and ensure communities have a
 ## How to Reproduce
 
 ### Steps to Run
-	1.	Clone this repository:
-git clone [repository_url](https://github.com/Gloriuss/Machine_Learning_Competition.git)
-cd Machine_Learning_Competition
-      
- 	2.	raw datasets in the Data_Download folder are allready inside GIT.
-  	3.  Install all required packages using:
-pip install -r requirements.txt
-      
-	4.	Run the main script:
-python Machine_Learning_Competition.py
-      
- 	5.	The predictions will be saved in Prediction_Result/y_model_predictions.csv.
+	#1.	Clone this repository:
+	git clone https://github.com/Gloriuss/Machine_Learning_Competition.git
+	cd Machine_Learning_Competition
+	#2.	raw datasets in the Data_Download folder are allready inside GIT.
+ 	#3.	Create a virtual environment named .venv in the project directory:
+  	#4.	Activate the virtual environment:
+	#	On Windows:
+ 	.venv\Scripts\activate
+ 	#	On macOS/Linux:
+  	source .venv/bin/activate
+	#5.	Install all required packages using:
+	pip install -r requirements.txt
+	#6.	Run the main script:
+	python Machine_Learning_Competition.py
+	#7.	The predictions will be saved in Prediction_Result/y_model_predictions.csv.
 
 ## Approach
 
