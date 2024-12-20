@@ -38,6 +38,7 @@ A predictive model can help prioritize maintenance and ensure communities have a
 	cd Machine_Learning_Competition
 	#2.	raw datasets in the Data_Download folder are allready inside GIT.
  	#3.	Create a virtual environment named .venv in the project directory:
+  	python3 -m venv .venv    
   	#4.	Activate the virtual environment:
 	#	On Windows:
  	.venv\Scripts\activate
@@ -47,7 +48,7 @@ A predictive model can help prioritize maintenance and ensure communities have a
 	pip install -r requirements.txt
 	#6.	Run the main script:
 	python Machine_Learning_Competition.py
-	#7.	The predictions will be saved in Prediction_Result/y_model_predictions.csv.
+	#7.	The predictions will be saved in Prediction_Result/y_model_predictions.csv
 
 ## Approach
 
