@@ -11,14 +11,23 @@ A predictive model can help prioritize maintenance and ensure communities have a
 ## Project Structure
 .
 ├── Machine_Learning_Competition.py  # Main Python script
+
 ├── Notebook.ipynb                  # Jupyter Notebook for analysis
+
 ├── requirements.txt                # Python dependencies
+
 ├── Data_Download                   # Raw datasets
+
 │   ├── SubmissionFormat.csv
+
 │   ├── test_set_values.csv
+
 │   ├── training_set_labels.csv
+
 │   └── training_set_values.csv
+
 └── Prediction_Result               # Generated predictions
+
     └── y_model_predictions.csv
 
 ## How to Reproduce
