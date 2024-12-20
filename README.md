@@ -8,6 +8,10 @@ This project showcases my participation in the “Can you predict which water pu
 
 A predictive model can help prioritize maintenance and ensure communities have access to clean water.
 
+## Competition Link
+
+https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-watertable/
+
 ## Project Structure
 
 ├── Machine_Learning_Competition.py  # Main Python script
